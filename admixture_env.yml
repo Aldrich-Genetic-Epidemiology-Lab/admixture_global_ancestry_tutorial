@@ -1,0 +1,12 @@
+name: admixture_env
+channels:
+  - bioconda
+  - defaults
+  - conda-forge
+dependencies:
+  - plink
+  - plink2
+  - picard
+  - r-base=4.0
+  - r-data.table
+  - admixture
