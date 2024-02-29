@@ -464,4 +464,5 @@ barplot(t(as.matrix(pruned_q_file[,2:3])), main = "GTEx v8 African and European 
 dev.off()
 ```
 
-An example of what this resulting image would look like is depicted in the ```gtexv8_ceu_yri_admixture_q.pdf``` PDF image.
+An example of what this resulting image would look like is depicted in the ```gtexv8_ceu_yri_admixture_q.pdf``` PDF image:
+![alt text](https://github.com/mjbetti/admixture_global_ancestry_tutorial/blob/main/gtexv8_ceu_yri_admixture_q.pdf?raw=true)
